@@ -1,0 +1,95 @@
+#bedroom {
+    border-radius:20px ; 
+    background-color: white ;
+}
+
+#tv {
+    border-radius:20px ; 
+    background-color: white ;
+}
+
+#desk {
+    border-radius:20px ; 
+    background-color: white ;
+}
+
+#bottles {
+    border-radius:20px ; 
+    background-color: white ;
+}
+
+#fruitbasket {
+    border-radius:20px ; 
+    background-color: white ;
+}
+
+#heading {
+font-size: 20px;
+}
+
+body {
+    text-align: center;
+    background-size: cover;
+}
+
+#back {
+    background-color: black ;
+    color : white ;
+    padding-left: 5px;
+    float:right;
+}
+
+#bedroom_body {
+    text-align: center;
+    background-color: white;
+}
+
+#bedroom_img {
+    height: 600px;
+    width: 600px;
+    border:5px solid black;
+}
+
+#tv_body {
+    text-align: center;
+    background-color: white;
+}
+
+#tv_img {
+    height: 600px;
+    width: 600px;
+    border:5px solid black;
+}
+
+#desk_body {
+    text-align: center;
+    background-color: white;
+}
+
+#desk_img {
+    height: 600px;
+    width: 600px;
+    border:5px solid black;
+}
+
+#bottle_body {
+    text-align: center;
+    background-color: white;
+}
+
+#bottle_img {
+    height: 600px;
+    width: 600px;
+    border:5px solid black;
+}
+
+#fruit_body {
+    text-align: center;
+    background-color: white;
+}
+
+#fruit_img {
+    height: 600px;
+    width: 600px;
+    border:5px solid black;
+}
